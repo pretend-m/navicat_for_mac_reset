@@ -14,7 +14,9 @@
 - 从 [navicat premium](https://www.navicat.com.cn/download/navicat-premium) 官网下载最新版。安装并运行，选择试用14天。
 - 待试用到期后，在终端进入脚本所在文件夹，运行重置脚本。执行命令：`sh reset_navicat.sh`
 - 执行脚本前需要关闭navicat
-- 自测16.2.9可用
+- 执行脚本后打开navicat查看是否重置成功
+- 如无变化则重新执行脚本，然后重启电脑，在打开navicat查看
+- 自测16.2.9/16.3.0可用
 
 
 ## 许可证
