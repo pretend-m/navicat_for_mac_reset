@@ -16,7 +16,7 @@
 - 使用双击执行reset_navicat.command注意事项: 1.reset_navicat.command与reset_navicat.sh需在同一目录下。2.初次使用需要授权安全性。3.如弹出无权限请进入终端，移动到当前文件夹，输入`sudo chmod -R 777 reset_navicat.command`回车(需要输入本机密码)。然后则重新双击执行reset_navicat.command
 - 执行脚本前需要关闭navicat
 - 执行脚本后打开navicat查看是否重置成功
-- 如无变化则重新执行脚本，然后重启电脑，在打开navicat查看
+- 如无变化则重启电脑，然后重新执行脚本，在打开navicat查看
 - reset_navicat_0710为特殊版本，该版本支持保留settings的设置，使用方式同上
 - 经测试可用版本如下:
 - 16.2.9
@@ -37,6 +37,8 @@
 - 17.0.10
 - 17.0.12
 - 17.0.13
+- 17.0.14
+- 17.1.0
 
 
 ## 许可证
