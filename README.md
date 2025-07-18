@@ -19,6 +19,7 @@
 - 如无变化则先关闭navicat，然后重启电脑，然后重新执行脚本，在打开navicat查看是否重制
 - 如上方法均无效的情况下,卸载现有版本，然后点击 [navicat premium](https://www.navicat.com.cn/download/navicat-premium) 下载最新版本，然后关机重启，执行脚本
 - reset_navicat_0710为特殊版本，该版本支持保留settings的设置，使用方式同上
+- 本脚本默认16以上均可以使用，不在测试版本中不一定不能使用。
 - 经测试可用版本如下:
 - 16.2.9
 - 16.3.0
